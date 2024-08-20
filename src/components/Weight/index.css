@@ -1,0 +1,30 @@
+.container{
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img{
+    height: 80px;
+}
+
+.height-container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.para{
+    color: #ffffff;
+}
